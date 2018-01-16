@@ -2384,3 +2384,16 @@ java.lang.NullPointerException
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
 	at org.eclipse.equinox.launcher.Main.main(Main.java:1472)
+!SESSION 2018-01-16 16:11:12.221 -----------------------------------------------
+eclipse.buildId=4.7.2.M20171130-0510
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2018-01-16 16:11:52.150
+!MESSAGE Server returned lastModified <= 0 for https://p3c.alibaba.com/plugin/eclipse/update/content.xml.xz
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2018-01-16 16:12:01.881
+!MESSAGE Server returned lastModified <= 0 for https://p3c.alibaba.com/plugin/eclipse/update/content.xml.xz
